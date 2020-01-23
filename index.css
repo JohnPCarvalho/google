@@ -1,0 +1,46 @@
+main {
+    margin-top: 200px;
+}
+
+div input {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+input[type="button"] {
+    text-align:center;
+    margin-top: 25px;
+    padding: 8px;
+    height: 36px;
+    min-width: 54px;
+    display: inline-block;
+    border: 1px solid #f2f2f2;;
+    background-color: #f2f2f2;
+}
+
+#button1 {
+    
+}
+
+#button2 {
+
+}
+
+#logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#searchForm {
+    width: 500px;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#searchInput {
+    width: 487px;
+    padding: 6px;
+}
+
