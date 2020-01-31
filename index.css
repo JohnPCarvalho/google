@@ -129,15 +129,17 @@ input[type="button"]:hover {
 }
 
 #searchForm {
-    width: 500px;
+    width: 600px;
     padding: 20px;
     margin-left: auto;
     margin-right: auto;
 }
 
 #searchInput {
-    width: 582px;
-    padding: 6px;
+    height: 15px;
+    width: 100%;
+    padding: 15px;
     border-radius: 24px;
+    border: 1px solid #dfe1e5;
 }
 
